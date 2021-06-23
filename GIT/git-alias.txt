@@ -1,0 +1,22 @@
+#GIT
+
+alias add='git add .'
+alias br='git branch'
+alias co='git checkout'
+alias done='git push origin'
+alias gitac='git add . && git commit -m'
+alias node='winpty node.exe'
+alias npmd='npm run dev'
+alias npms='npm start'
+alias pull='git pull'
+alias st='git status'
+alias cob='git checkout -b'
+
+#HEROKU
+alias done-h='git push heroku main'
+
+#ABRIR ARCHIVO CONFIG CON CODE
+alias edit-alias='code ~/.bashrc'
+alias load-alias='source ~/.bashrc'
+
+#DIRECTORIES
